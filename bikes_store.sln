@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "bikes_store", "bikes_store\bikes_store.dwproj", "{054BDD32-E5F4-4F2F-B9CE-1203A212D1CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054BDD32-E5F4-4F2F-B9CE-1203A212D1CF}.Development|Default.ActiveCfg = Development
+		{054BDD32-E5F4-4F2F-B9CE-1203A212D1CF}.Development|Default.Build.0 = Development
+		{054BDD32-E5F4-4F2F-B9CE-1203A212D1CF}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F97E761A-07E9-44D6-8189-0F9E111A2A40}
+	EndGlobalSection
+EndGlobal
